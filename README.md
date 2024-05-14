@@ -8,7 +8,7 @@
 
 ## READ ME MR. GAMBLER
 
-This tool is **NOT** intended for users who wish to remove it to continue gambling. If you need help with gambling, please visit[www.gambleaware.org](https://www.gambleaware.org/) 
+This tool is **NOT** intended for users who wish to remove it to continue gambling. If you need help with gambling, please visit [www.gambleaware.org](https://www.gambleaware.org/) 
 
 
 ## Usage/Download
