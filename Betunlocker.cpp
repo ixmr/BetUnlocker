@@ -4,7 +4,7 @@
 
 int main() {
     if (killProcessByName(L"BetBlocker.exe")) {
-        std::cout << "Closed BetBlocked" << std::endl;
+        std::cout << "Closed BetBlocker" << std::endl;
     }
     if (clearHostsFile()) {
         std::cout << "Removed Local Blocking" << std::endl;
