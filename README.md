@@ -1,7 +1,7 @@
 
 # BetUnlocker
 
-**A simple tool to remove BetLocker both local and vpn locks.**
+**A simple tool to remove [BetBlocker](https://betblocker.org/) both local and vpn locks.**
 
 
 
